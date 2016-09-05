@@ -1,10 +1,9 @@
 {
-  "server": "127.0.0.1",
+  "server": "0.0.0.0",
   "local_address": "127.0.0.1",
   "scheme": "ws",
   "local_port": 1080,
-  "remote_port": 8080,
-  "password": "`try*(^^$some^$%^complex>:<>?~password/",
-  "timeout": 600,
-  "method": "rc4-md5"
+  "remote_port": 80,
+  "timeout": 1800,
+  "method": "aes-128-cfb"
 }
