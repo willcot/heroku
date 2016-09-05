@@ -44,7 +44,7 @@ if METHOD.toLowerCase() in ["", "null", "table"]
 
 server = http.createServer (req, res) ->
   res.writeHead 200, 'Content-Type': 'text/plain'
-  res.end("asdf.")
+  res.end("Do you see what I see?")
 
 wss = new WebSocketServer server: server
 
