@@ -1,10 +1,10 @@
 {
-  "name": "heroku",
-  "version": "9.10",
+  "name": "heroku-is-cool",
+  "version": "0.9.10",
   "dependencies": {
     "minimist": "^1.2.0",
     "https-proxy-agent": "^1.0.0",
-    "ws": "^1.0.1"
+    "ws": "^1.1.1"
   },
   "engines": {
     "node": "6.x"
