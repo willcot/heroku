@@ -4,6 +4,6 @@
   "scheme": "ws",
   "local_port": 1080,
   "remote_port": 8080,
-  "timeout": 1800,
+  "timeout": 21600,
   "method": "aes-128-cfb"
 }
